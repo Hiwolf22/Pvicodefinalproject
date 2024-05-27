@@ -1,0 +1,47 @@
+.crafty-girls-regular {
+  font-family: "Crafty Girls", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+    background-color: lightblue;
+    border: 18px solid white;
+    color: white;
+    margin: auto;
+    padding: 20 px;
+    text-align: center;
+}
+p {
+    background-color: lightblue;
+    border: 18px solid white;
+    color: white;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+  }
+h2 {
+    background-color: lightblue;
+    border: 18px solid white;
+    color: white;
+    margin: auto;
+    padding: 20 px;
+    text-align: center;
+  }
+body {
+    background-color: lightblue;
+    border: 18px solid white;
+    color: white;
+    margin: auto;
+    padding: 20 px;
+    text-align: center;
+  }
+img {
+    background-color: lightblue;
+    border: 18px solid white;
+    color: white;
+    margin: auto;
+    padding: 20 px;
+    text-align: center;
+  }
